@@ -1,0 +1,90 @@
+body{
+  background-image: url("http://www.wallpapers-web.com/data/out/178/5362211-seashore-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.navbar-custom{
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: none;
+  background: #2C3E50;
+}
+
+.navbar-custom .navbar-brand{
+  color:white;
+}
+.navbar-custom .navbar-toggle{
+  background:  #2C3E50;
+  color:white;
+  border-color: white;
+}
+.navbar-custom .nav-pills{
+  color: #fff;
+  letter-spacing: 1px;
+}
+.navbar-custom .nav-pills li a{
+  color: white;
+}
+.navbar-custom .nav-pills li a:hover{
+  color:grey;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active{
+  color:grey;
+}
+
+
+hr.star-bright{
+  border-color: #fff;
+  margin:40px auto 30px;
+  max-width:300px;
+  padding: 0px;
+  border: 0px;
+  border-top: solid 5px;
+  text-align: center;
+}
+
+.jumbo{
+  border: solid black;
+  background: rgba(255, 254, 254,0.1);
+}
+.jumbo1{
+  border: solid black;
+  background: rgba(255, 254, 254,0.1);
+}
+.jumbo2{
+  border: solid black;
+  background: rgba(255, 254, 254,0.1);
+}
+
+
+img{
+  vertical-align:middle;
+
+}
+
+.intro-text{
+  font-weight: 900;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.skil{
+  font-weight: 700;
+}
+
+.portfolio-item{
+  margin-bottom: 25px;
+}
+
+.foot{
+  background: #2C3E50;
+  font-weight: 700;
+  color: white;
+
+}
